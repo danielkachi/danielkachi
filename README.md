@@ -19,6 +19,6 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
 
 
 
-[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielkachi)]
+![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielkachi)
 
 
