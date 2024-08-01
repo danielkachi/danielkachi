@@ -1,5 +1,5 @@
 ### Hi there 👋, Welcome to My Code Space 👨‍💻
-![](https://media.licdn.com/dms/image/D4D16AQF26CkIov5P0Q/profile-displaybackgroundimage-shrink_350_1400/0/1673395019968?e=1727913600&v=beta&t=GMVlmSb1AHrwjP7AiZlXL1j1UgAjGxMjdoIrhtHvNuQ)
+![](https://github.com/danielkachi/danielkachi/blob/main/Linkedin%20banner.jpeg)
 
 I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautiful apps. My passion lies in developing user-friendly applications that solve real-world problems. Whether it’s crafting a slick UI or optimising app performance, I thrive on challenges that push my skills to the next level.
 
