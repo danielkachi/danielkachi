@@ -1,16 +1,13 @@
-## Hi there 👋
+### Welcome to My Code Space 👨‍💻
 
-<!--
-**danielkachi/danielkachi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautiful apps. My passion lies in developing user-friendly applications that solve real-world problems. Whether it’s crafting a slick UI or optimizing app performance, I thrive on challenges that push my skills to the next level.
 
-Here are some ideas to get you started:
+📱 Flutter enthusiast with a focus on mobile excellence
+🧠 Lifelong learner, always ready to dive into new tech.
+🌍 Open to collaborations that make a difference.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out!
+
+[![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielkachi)](https://github.com/anuraghazra/github-readme-stats)
+
+
