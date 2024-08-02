@@ -14,7 +14,7 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
 <img src="https://github.com/danielkachi/danielkachi/blob/main/blueprint.gif" width="256" />
 
 
-## Connect with me
+### Connect with me
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/danielkachi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daniel-henry-kachi/)  
