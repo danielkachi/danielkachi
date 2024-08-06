@@ -26,8 +26,6 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
 
 
 ![](https://raw.githubusercontent.com/danielkachi/dan/master/profile-summary-card-output/github_dark/0-profile-details.svg)
-![](https://raw.githubusercontent.com/danielkachi/dan/master/profile-summary-card-output/github_dark/1-repos-per-language.svg)
-![](https://raw.githubusercontent.com/danielkachi/dan/master/profile-summary-card-output/github_dark/2-most-commit-language.svg)
 ![](https://raw.githubusercontent.com/danielkachi/dan/master/profile-summary-card-output/github_dark/3-stats.svg)
 ![](https://raw.githubusercontent.com/danielkachi/dan/master/profile-summary-card-output/github_dark/4-productive-time.svg)
 
