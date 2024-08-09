@@ -11,7 +11,7 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
 * ☕ JAVA
 
 ## Examples of Work
-[<img src="https://github.com/danielkachi/danielkachi/blob/main/blueprint.gif" width="256" />](https://github.com/danielkachi/blueprint_app) [<img src="https://github.com/danielkachi/danielkachi/blob/main/instagram%20cloneee.png" width="300" />](https://github.com/danielkachi/instagram-clone.git)
+[<img src="https://github.com/danielkachi/danielkachi/blob/main/blueprint.gif" width="256" />](https://github.com/danielkachi/blueprint_app)   [<img src="https://github.com/danielkachi/danielkachi/blob/main/instagram%20cloneee.png" width="300" />](https://github.com/danielkachi/instagram-clone.git)
 
 
 
