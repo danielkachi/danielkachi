@@ -13,28 +13,29 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
 ## Examples of Work
 <table>
   <tr>
+    <td align="center">
+      <strong>Blueprint App</strong>
+    </td>
+    <td style="width: 20px;"></td> <!-- This cell is just for spacing -->
+    <td align="center">
+      <strong>Instagram Clone</strong>
+    </td>
+  </tr>
+  <tr>
     <td>
       <a href="https://github.com/danielkachi/blueprint_app">
         <img src="https://github.com/danielkachi/danielkachi/blob/main/blueprint.gif" width="256" />
       </a>
     </td>
-    <td style="width: 20px;"></td> <!-- This cell adds space -->
+    <td></td> <!-- This cell adds space -->
     <td>
       <a href="https://github.com/danielkachi/instagram-clone.git">
         <img src="https://github.com/danielkachi/danielkachi/blob/main/instagram%20cloneee.png" width="300" />
       </a>
     </td>
   </tr>
-  <tr>
-    <td align="center">
-      <strong>Blueprint App</strong>
-    </td>
-    <td></td> <!-- This cell is just for spacing -->
-    <td align="center">
-      <strong>Instagram Clone</strong>
-    </td>
-  </tr>
 </table>
+
 
 
 
