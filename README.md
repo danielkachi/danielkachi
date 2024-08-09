@@ -25,7 +25,17 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
       </a>
     </td>
   </tr>
+  <tr>
+    <td align="center">
+      <strong>Blueprint App</strong>
+    </td>
+    <td></td> <!-- This cell is just for spacing -->
+    <td align="center">
+      <strong>Instagram Clone</strong>
+    </td>
+  </tr>
 </table>
+
 
 
 
