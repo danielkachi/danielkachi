@@ -45,9 +45,6 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
     </td>
   </tr>
   <!-- Empty row for spacing -->
-  <td colspan="5" style="height: 20px;"></td>
-  <td colspan="5" style="height: 20px;"></td>
-  <td colspan="5" style="height: 20px;"></td>
   <tr>
     <td colspan="5" style="height: 20px;"></td> <!-- Spacer row with a height of 20px -->
   </tr>
