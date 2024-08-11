@@ -44,6 +44,10 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
       </a>
     </td>
   </tr>
+  <!-- Empty row for spacing -->
+  <tr>
+    <td colspan="5" style="height: 20px;"></td> <!-- Spacer row with a height of 20px -->
+  </tr>
   <tr>
     <td align="center">
       <strong>Location App</strong>
@@ -57,7 +61,6 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
     </td>
   </tr>
 </table>
-
 
 
 
