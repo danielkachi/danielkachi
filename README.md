@@ -24,10 +24,6 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
     <td align="center">
       <strong>Shop App</strong>
     </td>
-    <td style="width: 20px;"></td> <!-- This cell is just for spacing -->
-    <td align="center">
-      <strong>Timer App</strong>
-    </td>
   </tr>
   <tr>
     <td>
@@ -47,20 +43,18 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
         <img src="https://github.com/danielkachi/danielkachi/blob/main/Shop_app.gif" width="256" />
       </a>
     </td>
-    <td></td> <!-- This cell adds space -->
-    <td>
-      <a href="https://github.com/danielkachi/timer_app">
-        <img src="https://github.com/danielkachi/danielkachi/blob/main/timer_app.gif" width="256" />
-      </a>
-    </td>
   </tr>
   <!-- Empty row for spacing -->
   <tr>
-    <td colspan="7" style="height: 20px;"></td> <!-- Spacer row with a height of 20px -->
+    <td colspan="5" style="height: 20px;"></td> <!-- Spacer row with a height of 20px -->
   </tr>
   <tr>
     <td align="center">
       <strong>Location App</strong>
+    </td>
+    <td style="width: 20px;"></td> <!-- This cell is just for spacing -->
+    <td align="center">
+      <strong>Timer App</strong>
     </td>
   </tr>
   <tr>
@@ -69,20 +63,14 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
         <img src="https://github.com/danielkachi/danielkachi/blob/main/location_app.gif" width="256" />
       </a>
     </td>
+    <td></td> <!-- This cell adds space -->
+    <td>
+      <a href="https://github.com/danielkachi/timer_app">
+        <img src="https://github.com/danielkachi/danielkachi/blob/main/timer_app.gif" width="256" />
+      </a>
+    </td>
   </tr>
 </table>
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 ### Connect with me:
