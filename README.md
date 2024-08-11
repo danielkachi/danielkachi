@@ -63,13 +63,14 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
         <img src="https://github.com/danielkachi/danielkachi/blob/main/location_app.gif" width="256" />
       </a>
     </td>
+    <td></td> <!-- This cell adds space -->
     <td>
       <a href="https://github.com/danielkachi/timer_app">
         <img src="https://github.com/danielkachi/danielkachi/blob/main/timer_app.gif" width="256" />
       </a>
     </td>
-  </tr>
 </table>
+
 
 
 ### Connect with me:
