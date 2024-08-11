@@ -26,19 +26,19 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <a href="https://github.com/danielkachi/blueprint_app">
         <img src="https://github.com/danielkachi/danielkachi/blob/main/blueprint.gif" width="256" />
       </a>
     </td>
     <td></td> <!-- This cell adds space -->
-    <td>
+    <td align="center">
       <a href="https://github.com/danielkachi/instagram-clone.git">
         <img src="https://github.com/danielkachi/danielkachi/blob/main/instagram%20cloneee.png" width="300" />
       </a>
     </td>
     <td></td> <!-- This cell adds space -->
-    <td>
+    <td align="center">
       <a href="https://github.com/danielkachi/shop_app">
         <img src="https://github.com/danielkachi/danielkachi/blob/main/Shop_app.gif" width="256" />
       </a>
@@ -58,19 +58,20 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
     </td>
   </tr>
   <tr>
-    <td>
+    <td align="center">
       <a href="https://github.com/danielkachi/location_app">
         <img src="https://github.com/danielkachi/danielkachi/blob/main/location_app.gif" width="256" />
       </a>
     </td>
     <td></td> <!-- This cell adds space -->
-    <td>
+    <td align="center">
       <a href="https://github.com/danielkachi/timer_app">
         <img src="https://github.com/danielkachi/danielkachi/blob/main/timer_app.gif" width="256" />
       </a>
     </td>
   </tr>
 </table>
+
 
 
 
