@@ -24,6 +24,10 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
     <td align="center">
       <strong>Shop App</strong>
     </td>
+    <td style="width: 20px;"></td> <!-- This cell is just for spacing -->
+    <td align="center">
+      <strong>Location App</strong>
+    </td>
   </tr>
   <tr>
     <td>
@@ -43,8 +47,15 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
         <img src="https://github.com/danielkachi/danielkachi/blob/main/Shop_app.gif" width="256" />
       </a>
     </td>
+    <td></td> <!-- This cell adds space -->
+    <td>
+      <a href="https://github.com/danielkachi/location_app">
+        <img src="https://github.com/danielkachi/danielkachi/blob/main/location_app.gif" width="256" />
+      </a>
+    </td>
   </tr>
 </table>
+
 
 
 
