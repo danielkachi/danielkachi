@@ -56,6 +56,10 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
     <td align="center">
       <strong>Timer App</strong>
     </td>
+    <td style="width: 20px;"></td> <!-- This cell is just for spacing -->
+    <td align="center">
+      <strong>Workout App</strong>
+    </td>
   </tr>
   <tr>
     <td align="center">
@@ -69,8 +73,17 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
         <img src="https://github.com/danielkachi/danielkachi/blob/main/timer_app.gif" width="256" />
       </a>
     </td>
+    <td></td> <!-- This cell adds space -->
+    <td align="center">
+      <a href="https://github.com/danielkachi/workout_app">
+        <img src="https://github.com/danielkachi/danielkachi/blob/main/workout_app.gif" width="256" />
+      </a>
+    </td>
   </tr>
 </table>
+
+
+
 
 
 
