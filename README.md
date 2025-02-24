@@ -22,7 +22,7 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
     </td>
     <td style="width: 20px;"></td> <!-- This cell is just for spacing -->
     <td align="center">
-      <strong>Instagram Clone</strong>
+      <strong>Shop App</strong>
     </td>
   </tr>
   <tr>
@@ -50,7 +50,7 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
   </tr>
   <tr>
     <td align="center">
-      <strong>Shop App</strong>
+      <strong>Instagram Clone</strong>
     </td>
     <td style="width: 20px;"></td> <!-- This cell is just for spacing -->
     <td align="center">
