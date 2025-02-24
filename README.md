@@ -39,8 +39,8 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
     </td>
     <td></td> <!-- This cell adds space -->
     <td align="center">
-      <a href="https://github.com/danielkachi/instagram-clone.git">
-        <img src="https://github.com/danielkachi/danielkachi/blob/main/instagram%20cloneee.png" width="300" />
+     <a href="https://github.com/danielkachi/shop_app"> 
+       <img src="https://github.com/danielkachi/danielkachi/blob/main/Shop_app.gif" width="256" />
       </a>
     </td>
   </tr>
@@ -63,8 +63,8 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/danielkachi/shop_app">
-        <img src="https://github.com/danielkachi/danielkachi/blob/main/Shop_app.gif" width="256" />
+      <a href="https://github.com/danielkachi/instagram-clone.git">
+        <img src="https://github.com/danielkachi/danielkachi/blob/main/instagram%20cloneee.png" width="300" />
       </a>
     </td>
     <td></td> <!-- This cell adds space -->
