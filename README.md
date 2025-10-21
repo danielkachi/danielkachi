@@ -7,6 +7,7 @@ I’m Daniel Henry, a Flutter developer dedicated to turning ideas into beautifu
 ## Skills and Experience 
 * 📱 FLUTTER
 * 💡 DART
+* 👨‍💻 KOTLIN
 * 🖥 PYTHON
 * ☕ JAVA
 
