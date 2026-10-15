@@ -112,8 +112,6 @@ I enjoy turning complex product ideas into practical, polished experiences that 
     <td align="center">
       <strong>Workout App</strong>
     </td>
-    <td style="width: 20px;"></td>
-    <td align="center"></td>
   </tr>
 
   <tr>
@@ -128,8 +126,6 @@ I enjoy turning complex product ideas into practical, polished experiences that 
         <img src="https://github.com/danielkachi/danielkachi/blob/main/workout_app.gif" width="256" />
       </a>
     </td>
-    <td></td>
-    <td align="center"></td>
   </tr>
 </table>
 
@@ -138,5 +134,7 @@ I enjoy turning complex product ideas into practical, polished experiences that 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/danielkachi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/daniel-henry-kachi/)
 
 ![](https://raw.githubusercontent.com/danielkachi/dan/master/profile-summary-card-output/github_dark/0-profile-details.svg)
+
 ![](https://raw.githubusercontent.com/danielkachi/dan/master/profile-summary-card-output/github_dark/3-stats.svg)
+
 ![](https://raw.githubusercontent.com/danielkachi/dan/master/profile-summary-card-output/github_dark/4-productive-time.svg)
